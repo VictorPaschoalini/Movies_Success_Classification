@@ -3,6 +3,8 @@ The project scope is to analyze movie datasets to try to predict flops, successe
 
 The original Kaggle notebook is available at https://www.kaggle.com/code/victorpaschoalini/movie-revenue-prediction-success-classification/notebook
 
+Links to the data used: https://www.kaggle.com/datasets/joebeachcapital/top-500-hollywood-movies-of-all-time and https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
+
 Here are the conclusions:
 
 Conclusions:
