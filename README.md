@@ -9,11 +9,11 @@ Here are the conclusions:
 
 Conclusions:
 
-- The model works much better than the previous one (MAE of ~60 M compared to ~200 M), this could be because we are using movies with smaller budgets, so more research is needed. Also, the model struggled a lot to make the success status predictions, a quick fix maybe trying to use the estimated budgets to make a new ROI estimated column.
+- The last model works much better than the initial one (MAE of ~60 M compared to ~200 M), this could be because we are using movies with smaller budgets, so more research is needed. Also, the model struggled a lot to make the success status predictions, a quick fix may be trying to use the estimated budgets to make a new ROI estimated column.
 
 - This work highly suggests that it is very possible to predict flops and success with the only information available in the making or even before the making of the movie... knowing that Hollywood loses hundreds of millions of dollars per year with flops, research in this direction is highly recommended.
 
-(following are the more technical conclusions)
+(The following are the more technical conclusions)
 
 Regression Model (Revenue Prediction):
 
